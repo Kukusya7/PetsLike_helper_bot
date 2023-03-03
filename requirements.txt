@@ -1,0 +1,6 @@
+telebot
+random
+openpyxl
+emoji
+os.path
+time 
